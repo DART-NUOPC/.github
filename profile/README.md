@@ -1,5 +1,10 @@
 ## Welcome to the DART-NUOPC organization👋
 
+SIParCS 2024 project
+
+### Notes
+Example land model NUOPC cap: https://github.com/ESCOMP/CTSM/tree/master/src/cpl/nuopc
+
 <!--
 
 **Here are some ideas to get you started:**
