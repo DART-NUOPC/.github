@@ -3,7 +3,12 @@
 SIParCS 2024 project
 
 ### Notes
+[SIParCS 2024 Google drive](https://drive.google.com/drive/folders/1r3YxU_1qgVXYQMsMDgrfXzORXfl_SQeZ)
+
+NUOPC cap examples:
 Example land model NUOPC cap: https://github.com/ESCOMP/CTSM/tree/master/src/cpl/nuopc
+MOM6 NUOPC cap: https://github.com/NCAR/MOM6/tree/db64408fd9f403325aa5a006c75bc99b869261ea/config_src/drivers/nuopc_cap
+
 
 <!--
 
